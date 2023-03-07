@@ -475,6 +475,9 @@ form {
   height: 100%;
   top: 4000px;
   padding-left: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
 }
 
